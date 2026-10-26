@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+*.3d
+*_filt.3d
+*_result.txt
+*.mp4
+*.avi
+.DS_Store
